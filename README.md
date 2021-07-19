@@ -25,15 +25,19 @@ mode: mode4
 
 ## Modes
 `mode1`:
+
 ![mode1](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Nixie-Clock-Card/blob/master/images/mode1.png)
 
 `mode2`:
+
 ![mode2](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Nixie-Clock-Card/blob/master/images/mode2.png)
 
 `mode3`:
+
 ![mode3](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Nixie-Clock-Card/blob/master/images/mode3.png)
 
 `mode4`:
+
 ![mode4](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Nixie-Clock-Card/blob/master/images/mode4.png)
 
 
